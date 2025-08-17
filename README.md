@@ -1,5 +1,5 @@
 голэнг сила, питон могила, джава просто говно  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taranqul&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taranqul)
 
 
 <!--
